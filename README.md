@@ -7,7 +7,7 @@ Operating System Algorithms Simulator
 - [x] Shortest Remaining Time First
 - [x] Pre-emptive Priority
 - [x] Non-pre-emptive Priority
-- [] Round Robin
+- [ ] Round Robin
 
 ## Issues
 - Static variables for letters. If the program will be reset via button, the letters that will be displayed is not alphabetically. It will depend on the last sorted letters. You have to exit the program and run it again.
