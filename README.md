@@ -1,5 +1,5 @@
 # osscheduling
-Operating System Algorithms Simulator
+Operating System CPU Scheduling Algorithms Simulator
 
 ## Supported Algorithms
 - [x] First Come First Serve
